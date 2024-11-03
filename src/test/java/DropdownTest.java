@@ -45,5 +45,4 @@ public class DropdownTest {
     public void tearDown() {
         driver.quit();
     }
-
 }
